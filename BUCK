@@ -1,6 +1,6 @@
 cxx_library(
   name = 'lua',
-  header_namespace = 'lua',
+  header_namespace = '',
   srcs = glob([
     '*.c',
   ]),
